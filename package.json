@@ -20,10 +20,7 @@
     "joi": "^17.10.2",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.13.20",
-    "rate-limiter": "^0.2.0",
-    "swagger-ui-express": "^4.1.6",
-    "xss-clean": "^0.1.4",
-    "yamljs": "^0.3.0"
+    "rate-limiter": "^0.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
